@@ -55,5 +55,5 @@ body {
     transform: translateY(-50%);
     left: 0;
     z-index: -1;
-    transition: 1s;
+    transition: 0.7s;
 }
